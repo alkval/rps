@@ -1,0 +1,14 @@
+C:\Users\alexa\Documents\uis\rps\rps\bin\Debug\net8.0\rps.exe
+C:\Users\alexa\Documents\uis\rps\rps\bin\Debug\net8.0\rps.deps.json
+C:\Users\alexa\Documents\uis\rps\rps\bin\Debug\net8.0\rps.runtimeconfig.json
+C:\Users\alexa\Documents\uis\rps\rps\bin\Debug\net8.0\rps.dll
+C:\Users\alexa\Documents\uis\rps\rps\bin\Debug\net8.0\rps.pdb
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.AssemblyInfo.cs
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.dll
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\refint\rps.dll
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.pdb
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\rps.genruntimeconfig.cache
+C:\Users\alexa\Documents\uis\rps\rps\obj\Debug\net8.0\ref\rps.dll
