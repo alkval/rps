@@ -82,7 +82,7 @@ namespace RockPaperScissors
             else
             {
                 Console.WriteLine("Invalid choice");
-            }3
+            }
 
 
         }
